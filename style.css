@@ -217,7 +217,7 @@ footer a {
 /*media queries */
 @media (min-width: 700px) {
    :root {
-     --bg-url: url(./bgdark-desktopjpg);
+     --bg-url: url(./bgdark-desktop.jpg);
 }
 
 .light {
