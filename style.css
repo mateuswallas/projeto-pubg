@@ -28,6 +28,7 @@ body {
  
  /* plano de funo */
  background: var(--bg-url) no-repeat top center/cover;
+ width: 100vh;
  
      
 }
