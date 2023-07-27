@@ -18,7 +18,7 @@ página destinada a desseminação de instruções, informações e conhecimento
 <br>
 
 <p align="center">
-  <img alt="pJ PUBG" src="./newperfil.png" width="50%">
+  <img alt="pJ PUBG" src="./capapubg2.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -37,9 +37,7 @@ a página initial pubg foi feita com intuito de facilitar o acesso aos diversos 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
 
-## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
