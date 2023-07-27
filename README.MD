@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by [Mateus wallas.](https://instagram.com/mateus_wallas")
+Feito com ♥ by [Mateus wallas.](https://instagram.com/mateus_wallas)
