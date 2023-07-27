@@ -39,7 +39,7 @@ body * {
 }
 
 #container {
-   width: 100px;
+   width: 100%;
    max-width: 588px;
    margin: 56px auto 0px;
    padding: 30px 24px;
@@ -197,7 +197,7 @@ video {
 }
 
 footer a:hover {
-   background: rgba(0, 0, 0, 0.74);
+   background: rgba(97, 95, 95, 0.801);
    transition: backgrounds 0.2s;
    padding: 10px;
    border-radius: 50%;
