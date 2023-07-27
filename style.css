@@ -28,7 +28,7 @@ body {
  
  /* plano de funo */
  background: var(--bg-url) no-repeat top center/cover;
- height: 100vh;
+ 
      
 }
 /*font de texto do corpo */
@@ -78,11 +78,17 @@ body * {
    z-index: 1;
    transform: translateY(-50%);
 
+   animation: slide-back 0.4s;
+
 }
+
  
 .light #switch button {
-   right: 0;
-   left: initial;
+   animation: slide-in 0.4s forwards;
+}
+
+#switch button:hover {
+   outline: 8px solid rgba(41, 40, 40, 0.719);
 }
 
 #switch span {
@@ -215,8 +221,28 @@ footer a {
 
 .light {
    --bg-url: url(./bglight.jpg);
+       }
+
 }
+
+@keyframes slide-in {
+   from {
+      left:o;
+        }
+   to {
+      left: 50%;
+      }
+ }
+
+@keyframes slide-back {
+   from {
+      left: 50%;
+   }
+   to {
+      left:0;
+   }
 }
+
 
 
 
