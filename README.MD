@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 a página initial pubg foi feita com intuito de facilitar o acesso aos diversos conteúdos do jogo pubg, sendo assim um agregador de páginas de interesse.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://mateuswallas.github.io/projeto-pubg/)
 
 
 
