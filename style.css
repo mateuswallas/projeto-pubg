@@ -29,6 +29,9 @@ body {
  /* plano de funo */
  background: var(--bg-url) no-repeat top center/cover;
  height: 100vh;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
  
      
 }
@@ -36,6 +39,7 @@ body {
 body * {
     font-family: 'Bungee Spice', cursive;  
     color: var(--text-color);
+    
     
 }
 
